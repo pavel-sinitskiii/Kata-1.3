@@ -197,7 +197,7 @@ justify-content: space-between;
 .description__img {
   width: 320px;
   height: 230px;
-  background-image: url(/img/_MG_3223.jpg);
+  background-image: url(../img/_MG_3223.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
